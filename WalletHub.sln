@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletHub", "WalletHub\WalletHub.csproj", "{9BF64C47-C798-4983-AC03-73E51D7C19FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF64C47-C798-4983-AC03-73E51D7C19FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF64C47-C798-4983-AC03-73E51D7C19FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF64C47-C798-4983-AC03-73E51D7C19FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF64C47-C798-4983-AC03-73E51D7C19FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {928806D8-13C9-40B7-8217-ED38682A8C67}
+	EndGlobalSection
+EndGlobal
